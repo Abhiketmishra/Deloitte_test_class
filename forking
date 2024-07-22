@@ -1,6 +1,6 @@
-a=10;
-b=20;
+a=30;
+b=50;
 //input variable c added
-c = a+b
+c = a*b
 //changed print statement
 print(c);
